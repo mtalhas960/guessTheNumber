@@ -21,6 +21,7 @@ function resetGame() {
   numberDisplay.textContent = "?";
   guessInput.value = "";
   displayMessage("Start guessing...");
+  document.body.style.backgroundColor = "#222";
 }
 
 function checkGuess() {
