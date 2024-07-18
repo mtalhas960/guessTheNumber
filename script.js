@@ -1,3 +1,4 @@
+// Sample Js Code
 const message = document.querySelector(".message");
 const numberDisplay = document.querySelector(".number");
 const scoreDisplay = document.querySelector(".score");
